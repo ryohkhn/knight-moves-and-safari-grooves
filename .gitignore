@@ -1,0 +1,9 @@
+build/
+cmake-build-debug
+CMakeLists.txt
+.idea
+makefile
+main
+*.out
+*/*.out
+*/*/*.out
